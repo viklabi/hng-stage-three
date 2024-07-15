@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'abhaya-extraBold';
+  src: url('/fonts/AbhayaLibre-Medium-webfont.woff');
+}
+@font-face {
+  font-family: 'abhaya-medium';
+  src: url('/fonts/AbhayaLibre-Medium-webfont.woff');
+}
+@font-face {
+  font-family: 'poppins-regular';
+  src: url('/fonts/poppins-regular-webfont.woff2');
+}
